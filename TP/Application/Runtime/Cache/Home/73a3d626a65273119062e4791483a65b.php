@@ -8,6 +8,7 @@
 <link rel="stylesheet" type ="text/css" href="/TP/Public/images/public.css" />
 <link rel="stylesheet" type ="text/css" href="/TP/Public/images/index.css" />
 <link rel="stylesheet" type ="text/css" href="/TP/Public/images/category.css" />
+<link rel="stylesheet" type ="text/css" href="/TP/Public/images/content.css" />
 </head>
 <body>
 	<div id="top">

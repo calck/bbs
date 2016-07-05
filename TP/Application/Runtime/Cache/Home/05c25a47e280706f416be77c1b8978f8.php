@@ -61,9 +61,10 @@
 			function show(obj){
 				obj.src="http://localhost/TP/index.php/Home/Content/verify";
 			}
+			var flag=false;
 			$(document).ready(function(){
 				$("#verify").blur(function(){
-						alert($(this).val());
+						//alert($(this).val());
 					  $.post("http://localhost/TP/index.php/Home/Content/check_verify",
 					  {
 						code:$(this).val()
@@ -71,13 +72,18 @@
 					  function(data,status){
 							if(data){
 								alert("验证码正确");
+								flag=true;
 							}
 							else{
 								alert("验证码错误");
+								flag=false;							
 							 }
 					  });
 				});
 			});
+			function check(){
+				return flag;
+			}
 		</script>
 		 <div id="main-right">
 			<div id="detail-title">
@@ -124,12 +130,12 @@
 		
 		 </div>
 			<?php echo ($page); ?>
-			<form class="form">
+			<form class="form" method="post" action="http://localhost/TP/index.php/Home/Content/add/id/<?php echo ($the_topic["id"]); ?>">
 				<p class="reply">回应：</p><p class='reply-other'>&nbsp;你是猪吗是猪吗是猪吗？...   <a href='#'>傻逼</a></a></a></p>
 				<textarea class="textarea" id="textarea" name="content" rows="7" cols="102"></textarea>
 				<input class="text" id="verify" type="text" size="5px" name="verify"><span>验证码</span>
 				<img class="vcode" src="http://localhost/TP/index.php/Home/Content/verify" onclick="show(this)" height="40" width="120" >
-				<input class="submit" type="submit" value="回复" />
+				<input class="submit"  type="submit" onclick="return check()" value="回复" />
 			</form> 
 		</div>
 

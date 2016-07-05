@@ -37,6 +37,24 @@
 	   			
 			}
 			function add(){
+				$reply=M("Reply");
+				$user=D("User");
+				$user_data=$user->userdata();
 				
+				$data=array(
+					"reply_content"=>I("content"),
+					"add_user"=>$user_data['id'],
+					"topic_id"=>$_GET['id'],
+					"stats"=>1,
+				
+				);
+				$data[add_time]=time();
+				$reply->create($data);
+				if($reply->add()){
+					$this->success("回复成功！");
+				}
+				else{
+					$this->error("回复失败，请重试！");
+				}
 			}
 		}	

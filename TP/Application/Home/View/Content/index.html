@@ -1,0 +1,84 @@
+	
+		 <script>
+			$(document).ready(function(){
+			  $(".replybtn").click(function(){
+				//alert("fuck");
+				$("#textarea").focus();
+			  });
+			});
+			function show(obj){
+				obj.src="__PROJECT_URL__/Home/Content/verify";
+			}
+			$(document).ready(function(){
+				$("#verify").blur(function(){
+						//alert($(this).val());
+					  $.post("__PROJECT_URL__/Home/Content/check_verify",
+					  {
+						code:$(this).val()
+					  },
+					  function(data,status){
+							if(data){
+								alert("验证码正确");
+							}
+							else{
+								alert("验证码错误");
+							 }
+					  });
+				});
+			});
+		</script>
+		 <div id="main-right">
+			<div id="detail-title">
+				<span><!--{$the_topic.title}--></span>
+			</div>
+			<div id="detail-main">
+				<div id="pic">
+					<img src="images/1.jpg" width="70px",height="70px">
+				</div>
+				<div id="content">
+					<div id="date">
+						<span>来自：<a href="#"><!--{$the_topic.add_user}--></a></span>
+						<span class="sign">（别摸我好吗）</span>
+						<span> </span>
+						<span class="replybtn" id="reply123">回应</span>
+					</div>
+					<div id="article">
+						<p><!--{$the_topic.content}--> </p>
+					</div>
+				</div>
+			</div>
+			<div id="clear">
+		
+			</div>
+			<ul class="reply">
+				<volist name="lists" id="vo">
+					<li>
+						<div class="reply-pic"><img src="images/1.jpg" width="70px",height="70px"></div>
+						<div class="reply-date">
+							<span><a href="#"><!--{$vo.add_user}--></a></span>
+							<span class="sign">（别摸我好吗）</span>
+							<span> 2015-12-10 10:27:43</span>
+							<span class="replybtn">回应</span>
+						</div>
+						<div class="reply-article">
+							
+							<p><!--{$vo.reply_content}--></p>
+						</div>
+					</li>
+				</volist>
+				
+					
+			</ul>
+		
+		 <div id="clear">
+		
+		 </div>
+			<!--{$page}-->
+			<form class="form">
+				<p class="reply">回应：</p><p class='reply-other'>&nbsp;你是猪吗是猪吗是猪吗？...   <a href='#'>傻逼</a></a></a></p>
+				<textarea class="textarea" id="textarea" name="content" rows="7" cols="102"></textarea>
+				<input class="text" id="verify" type="text" size="5px" name="verify"><span>验证码</span>
+				<img class="vcode" src="__PROJECT_URL__/Home/Content/verify" onclick="show(this)" height="40" width="120" >
+				<input class="submit" type="submit" value="回复" />
+			</form> 
+		</div>

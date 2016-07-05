@@ -1,0 +1,40 @@
+.form{
+	width:500px;
+	
+	margin-left:300px;
+	
+	
+}
+.main-title{
+	font-size:20px;
+	color:#494949;
+	margin-bottom:200px;
+	margin-left:300px;
+
+	
+
+	
+
+}
+.form .general{
+	float:left;
+	clear:both;
+	margin:20px;
+	
+}
+.form .confirm{
+	float:left;
+	clear:both;
+	margin:20px;
+}
+.form .confirm2{
+	float:left;
+	clear:both;
+	margin-top:20px;
+	margin-left:80px;
+}
+.form .submit{
+	clear:both;
+	float:right;
+	margin-right:210px;
+}

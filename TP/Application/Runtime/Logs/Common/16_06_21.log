@@ -1,0 +1,225 @@
+[ 2016-06-21T10:07:13+08:00 ] ::1 /TP/Application/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:43:26+08:00 ] ::1 /TP/Application/Home/View/images/public.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:43:26+08:00 ] ::1 /TP/Application/Home/View/images/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:43:26+08:00 ] ::1 /TP/Application/Home/View/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:43:26+08:00 ] ::1 /TP/Application/Home/View/images/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:43:39+08:00 ] ::1 /TP/Application/Home/View/images/public.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:43:39+08:00 ] ::1 /TP/Application/Home/View/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:43:39+08:00 ] ::1 /TP/Application/Home/View/images/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:43:39+08:00 ] ::1 /TP/Application/Home/View/images/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:46:16+08:00 ] ::1 /TP/Application/Home/View/images/public.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:46:16+08:00 ] ::1 /TP/Application/Home/View/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:46:16+08:00 ] ::1 /TP/Application/Home/View/images/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:46:16+08:00 ] ::1 /TP/Application/Home/View/images/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:46:23+08:00 ] ::1 /TP/Application/Home/View/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:46:23+08:00 ] ::1 /TP/Application/Home/View/images/public.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:46:23+08:00 ] ::1 /TP/Application/Home/View/images/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T10:46:23+08:00 ] ::1 /TP/Application/Home/View/images/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-21T11:15:36+08:00 ] ::1 /TP/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-06-21T12:20:26+08:00 ] ::1 /tp/index.php/hom
+ERR: 无法加载模块:Hom
+
+[ 2016-06-21T12:20:43+08:00 ] ::1 /tp/index.php/hom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Hom
+
+[ 2016-06-21T13:19:45+08:00 ] ::1 /tp/index.php/index/index/p/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-21T13:26:15+08:00 ] ::1 /TP/forum-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T13:28:22+08:00 ] ::1 /TP/forum-2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+ERR: 无法加载模块:Forum-2
+
+[ 2016-06-21T13:28:39+08:00 ] ::1 /TP/forum-1.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T13:28:54+08:00 ] ::1 /TP/forum-1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T13:29:09+08:00 ] ::1 /TP/forum2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+ERR: 无法加载模块:Forum2
+
+[ 2016-06-21T16:37:50+08:00 ] ::1 /TP/index.php/forum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+ERR: 无法加载模块:Forum
+
+[ 2016-06-21T16:37:56+08:00 ] ::1 /TP/index.php/forum-1-4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+ERR: 无法加载模块:Forum-1-4
+
+[ 2016-06-21T16:37:58+08:00 ] ::1 /TP/index.php/forum-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T16:38:10+08:00 ] ::1 /TP/index.php/forum-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T21:22:26+08:00 ] ::1 /TP/forum-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+ERR: 无法加载模块:Forum-
+
+[ 2016-06-21T21:29:10+08:00 ] ::1 /TP/forum-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T21:29:18+08:00 ] ::1 /TP/forum-2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: 无法加载模块:Forum-2
+
+[ 2016-06-21T21:29:27+08:00 ] ::1 /TP/forum-1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T21:29:49+08:00 ] ::1 /TP/forum-1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T21:29:52+08:00 ] ::1 /TP/forum-1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+ERR: 无法加载模块:Forum-1
+
+[ 2016-06-21T21:30:29+08:00 ] ::1 /TP/forum-2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+ERR: 无法加载模块:Forum-2
+
+[ 2016-06-21T21:31:39+08:00 ] ::1 /TP/forum-2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:Forum-2
+

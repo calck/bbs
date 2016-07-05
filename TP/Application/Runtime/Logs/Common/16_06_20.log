@@ -1,0 +1,108 @@
+[ 2016-06-20T17:06:49+08:00 ] ::1 /TP/Index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-20T17:09:21+08:00 ] ::1 /TP/index.php/Application/Home/View/images/public.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:21+08:00 ] ::1 /TP/index.php/Application/Home/View/images/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:21+08:00 ] ::1 /TP/index.php/Application/Home/View/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:21+08:00 ] ::1 /TP/index.php/Application/Home/View/images/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:23+08:00 ] ::1 /TP/index.php/Application/Home/View/images/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:23+08:00 ] ::1 /TP/index.php/Application/Home/View/images/public.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:23+08:00 ] ::1 /TP/index.php/Application/Home/View/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:23+08:00 ] ::1 /TP/index.php/Application/Home/View/images/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:25+08:00 ] ::1 /TP/index.php/Hom
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Hom
+
+[ 2016-06-20T17:09:29+08:00 ] ::1 /TP/index.php/Application/Home/View/images/public.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:29+08:00 ] ::1 /TP/index.php/Application/Home/View/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:29+08:00 ] ::1 /TP/index.php/Application/Home/View/images/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T17:09:29+08:00 ] ::1 /TP/index.php/Application/Home/View/images/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T19:33:05+08:00 ] ::1 /TP/index.php/Application/Home/View/images/public.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T19:33:05+08:00 ] ::1 /TP/index.php/Application/Home/View/images/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T19:33:05+08:00 ] ::1 /TP/index.php/Application/Home/View/images/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+ERR: 无法加载模块:Application
+
+[ 2016-06-20T19:33:05+08:00 ] ::1 /TP/index.php/Application/Home/View/images/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+ERR: 无法加载模块:Application
+

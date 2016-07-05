@@ -1,0 +1,20 @@
+		 <div id="main-right">
+			<div id="right-title"><span>hehehhe</span></div>
+			
+			<div id="right-content">
+				<ul>
+				<volist name=":CategorySublist($cid)" id="vo">
+					<li class="topic">
+						<div class="pic"><a href="#"><img src="__PUBLIC__/images/1.jpg" width="70px" height="70px"></a></div>
+						<div class="up"><a href="<!--{$vo.id|CategoryURL=###,1}-->"><span><!--{$vo.category_title}--></span></a></div>
+						<div class="down">共有<!--{$vo.id|TopicNum=###}-->个话题</div>
+					</li>
+				</volist>
+				</ul>
+				
+			
+				
+			</div>
+		
+		 </div>
+		 	

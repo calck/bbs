@@ -1,0 +1,65 @@
+
+		 <div id="main-right">
+			<div id="right-title">
+				<div id="pic">
+					<img src="__PUBLIC__/images/1.jpg" width="70px" height="70px"/>
+				</div>
+				<div id="name">
+					<span>我是标题</span>
+				</div>
+			</div>
+			<div id="clear">
+		
+			<div>
+			<div id="description" class="auto">
+				<p>每年都有数以万计的旅行者在世界各地从事志愿者服务，他们参加的工作包括各种开发和保护项目，涵盖了从志愿救助加德满都街道流浪儿到统计喜马拉雅高山区濒危动物的数量等各种类别。旅行者为此将获得很棒的回报：个人成长以及更加深入地体验当地社区生活的机会，这些将赋予你的旅行更为深刻的内涵。 </p>
+				
+				
+			</div>
+			<div class="right-content auto" >
+				<div>
+					<div class="select">
+						<span><a href="#">最热话题</a></span>
+					</div>
+					<div class="post">
+						<span><a href="__PROJECT_URL__/Home/PostTopic/index/cid/<!--{$cid}-->">发言+</a></span>
+					</div>
+				</div>
+				<div id="clear"><div>
+		
+				
+				
+					<ul id="tz">
+						<li class="li">
+							<div class="tz-mainname">话题</div>
+							<div class="tz-mainauthor">作者</div>
+							<div class="tz-reply">回复</div>
+							<div class="tz-date">最后回复</div>
+						</li>
+						<li class="li">
+							<div class="tz-name"><a href="__PROJECT_URL__/Home/Content/index/cid/<!--{$cid}-->">话题</a></div>
+							<div class="tz-author"><a href="#">作者</a></div>
+							<div class="tz-reply">回复</div>
+							<div class="tz-date">最后回复</div>
+							<div class="choice">删</div>
+							<div class="choice">顶</div>
+						</li>
+						<volist name="list_topic" id="vo">
+						
+						<li class="li">
+							<div class="tz-name"><a href="__PROJECT_URL__/Home/Content/index/id/<!--{$vo.id}-->"><!--{$vo.title}--></a></div>
+							<div class="tz-author"><a href="#"><!--{$vo.add_user}--></a></div>
+							<div class="tz-reply"><!--{$vo.id|ReplyNum=###}--></div>
+							<div class="tz-date"><!--{$vo.last_update_time}--></div>
+						</li>
+						</volist>
+							
+					</ul>
+					
+					<ul class="page">
+					<!--{$page}-->
+						
+					</ul>
+			</div>
+			
+		 </div>

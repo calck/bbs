@@ -1,0 +1,66 @@
+[ 2016-06-23T15:23:59+08:00 ] ::1 /TP/index.php/User/userlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:24:59+08:00 ] ::1 /TP/index.php/User/userlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:25:04+08:00 ] ::1 /TP/index.php/User/userlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:25:33+08:00 ] ::1 /TP/index.php/User/userlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:26:37+08:00 ] ::1 /TP/index.php/User/userlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:26:41+08:00 ] ::1 /TP/index.php/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:26:55+08:00 ] ::1 /TP/index.php/User/userlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:27:36+08:00 ] ::1 /TP/index.php/User/userlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:29:40+08:00 ] ::1 /TP/index.php/User/userlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:29:53+08:00 ] ::1 /TP/index.php/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+ERR: 无法加载模块:User
+
+[ 2016-06-23T15:30:30+08:00 ] ::1 /TP/index.php/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+ERR: 无法加载模块:User
+

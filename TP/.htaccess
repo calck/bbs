@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+  Options +FollowSymlinks
+  RewriteEngine On
+
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+   RewriteRule ([forum]{1,})-([a-zA-Z,0-9]{1,})\.html$ Home/Index/index/cid/$2
+  RewriteRule ([forum]{1,})-([a-zA-Z,0-9]{1,})-([a-zA-Z,0-9]{1,})\.html$ Home/Index/index/cid/$2/p/$3
+  
+</IfModule>

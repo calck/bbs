@@ -1,0 +1,33 @@
+
+#main-right ul .topic{
+	height:100px;
+	width:200px;
+	line-height:100px;
+	float:left;
+	margin:25px;
+}
+#main-right .pic{
+	height:100px;
+	width:100px;
+	float:left;
+	text-align:center;
+}
+#main-right .up{
+	height:50px;
+	width:100px;
+	line-height:50px;
+	text-align:center;
+	float:left;
+}
+#main-right .down{
+	height:50px;
+	width:100px;
+	line-height:10px;
+	text-align:center;
+	float:left;
+	color:#999;
+}
+#main-right #right-content{
+	width:750px;
+	float:right;
+}

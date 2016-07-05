@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://libs.baidu.com/jquery/1.10.2/jquery.min.js">
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>好</title>
+<link rel="stylesheet" type ="text/css" href="__PUBLIC__/images/public.css" />
+<link rel="stylesheet" type ="text/css" href="__PUBLIC__/images/index.css" />
+<link rel="stylesheet" type ="text/css" href="__PUBLIC__/images/category.css" />
+<link rel="stylesheet" type ="text/css" href="__PUBLIC__/images/content.css" />
+</head>
+<body>
+	<div id="top">
+		<ul>
+			<eq name="a|Is_login" value="1">
+			<li><a href="__PROJECT_URL__/Home/User/user_out">退出</a></li>
+			<li><a href="#">智障</a></li>
+			<else/>
+			<li><a href="__PROJECT_URL__/Home/User/userlogin">登录</a></li>
+			<li><a href="__PROJECT_URL__/Home/User/userregister">注册</a></li>
+			</eq>
+			
+			
+		</ul>
+	</div>
+	<div id="nav">
+		<div id="nav-main" class="auto">
+			<div id="nav-logo"><img src="__PUBLIC__/images/logo.jpg" width="180px" height="70px" />
+				
+			</div>
+			<ul>
+				<li><a href="#">caonima</a></li>
+				<li><a href="#">caonima</a></li>
+				<li><a href="#">caonima</a></li>
+			</ul>
+			<div id="search" >
+				<form>
+					<input class="text" type="text" placeholder="按时的"/> 
+					<input class="submit" type="submit" value="    " />
+				</form>
+			</div>
+		</div>
+	
+	</div>
+	<div id="main" class="auto">
+		<div id="main-left">
+			<div id="left-title"><span>hahahh</span></div>
+			
+			<ul>
+			<volist	name=":leftnav()" id="vo">
+				<li><a href="<!--{$vo.id|CategoryURL=###}-->"><!--{$vo.category_title}--></a></li>
+			</volist>
+				
+			</ul>
+		 </div>
+		{__CONTENT__}
+	</div>
+	<div id="clear">
+		
+	</div>
+	<div id="floor">
+
+	</div>
+</body>
+	
+</html>
